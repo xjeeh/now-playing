@@ -18,6 +18,6 @@ OBS Script to display now playing
 5. If the script raise errors, please send script log
 
 ## StreamElement SoundRequest Integration:
-1. Download the chrome extension: https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld
+1. Download the [User Javascript and CSS chrome extension](https://chrome.google.com/webstore/detail/user-javascript-and-css/nbhcbdghjpllgmfilhnhkllmkecfmpld) 
 2. Insert the custom script from `script.js` in the extension
 3. Keep the Tab active while listening to the Sound Request; 
